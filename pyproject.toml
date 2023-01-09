@@ -10,6 +10,8 @@ packages = [{include = "wallet_bot"}]
 python = "^3.10"
 python-telegram-bot = "^20.0"
 python-dotenv = "^0.21.0"
+sqlalchemy = "^1.4.46"
+psycopg2-binary = "^2.9.5"
 
 
 [build-system]
